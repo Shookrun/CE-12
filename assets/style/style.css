@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.h2RAS {
+  color: #596c72;
+  font-size: 30px;
+}
+.Yenilikler {
+  background-color: #e1e4eb78;
+}
+.cardRAS {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 312px;
+  height: fit-content;
+  padding-inline: 30px;
+  padding-block: 20px;
+  -webkit-box-shadow: 21px 16px 24px -4px rgba(0, 0, 0, 0.46);
+  -moz-box-shadow: 21px 16px 24px -4px rgba(0, 0, 0, 0.46);
+  box-shadow: 21px 16px 24px -4px rgba(0, 0, 0, 0.46);
+  /* border: 1px black solid; */
+  background-color: #fff;
+  p {
+    font-size: 14px;
+    color: #69768b;
+  }
+  h2 {
+    color: #191919;
+  }
+}
+.containerRAS {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
