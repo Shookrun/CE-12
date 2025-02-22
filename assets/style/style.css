@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    border:rgb(168, 157, 157) ;
+    background-color: rgb(245, 240, 234);
+    width: 1000px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.img1{
+    height: 300px;
+    width: 400px;
+}
+.footer{
+    display: flex;
+    border: white;
+    background-color: antiquewhite;
+    width: 1000px;
+    height: 300px;
+    margin-left: 50px;
+}
