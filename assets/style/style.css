@@ -1,21 +1,20 @@
 .container{
     display: flex;
-    border:rgb(168, 157, 157) ;
-    background-color: rgb(245, 240, 234);
-    width: 1000px;
-    height: 300px;
-    margin-top: 20px;
-    margin-left: 50px;
+    border: wheat;
+    background-color: bisque;
+    width: 1200px;
+    height: 500px;
+    margin-left: 30px;
 }
-.img1{
-    height: 300px;
-    width: 400px;
+.container2{
+display: flex;
+background-color: rgb(252, 225, 185);
+width: 1200px;
+height: 300px;
+margin-left: 30px;
+padding-top: 60px;
 }
-.footer{
-    display: flex;
-    border: white;
-    background-color: antiquewhite;
-    width: 1000px;
-    height: 300px;
-    margin-left: 50px;
+.div1{
+    width: 300px;
+    height: 100px;
 }
